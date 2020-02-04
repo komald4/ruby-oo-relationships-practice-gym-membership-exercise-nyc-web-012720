@@ -8,7 +8,9 @@ class Lifter
     @all << self
   end
 
-
+def memberships
+  
+end
 
 
 
