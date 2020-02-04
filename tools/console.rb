@@ -8,13 +8,13 @@ mercedes_club = Gym.new("Mercedes Club")
 rise_by_we = Gym.new("Rise By We")
 soul_cyle = Gym.new("Soul Cycle")
 
-Komal = lifter.new("Komal", 1000)
-Savita = lifter.new("Savita", 500)
+Komal = Lifter.new("Komal", 1000)
+Savita = Lifter.new("Savita", 500)
 
-mem1= membership.new(99, pilates, Komal)
-mem1= membership.new(100, mercedes_club, Savita)
-mem1= membership.new(25, rise_by_we, Komal)
-mem1= membership.new(999, soul_cyle, Savita)
+mem1= Membership.new(99, pilates, Komal)
+mem1= Membership.new(100, mercedes_club, Savita)
+mem1= Membership.new(25, rise_by_we, Komal)
+mem1= Membership.new(999, soul_cyle, Savita)
 
 binding.pry
 
