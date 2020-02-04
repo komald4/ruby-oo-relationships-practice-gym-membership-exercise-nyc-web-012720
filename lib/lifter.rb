@@ -9,7 +9,8 @@ class Lifter
   end
 
 def memberships
-  
+  Membership.all.select do |mem|
+    mem.lifter == self
 end
 
 
