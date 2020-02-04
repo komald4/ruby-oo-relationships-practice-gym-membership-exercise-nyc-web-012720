@@ -12,9 +12,9 @@ Komal = Lifter.new("Komal", 1000)
 Savita = Lifter.new("Savita", 500)
 
 mem1= Membership.new(99, pilates, Komal)
-mem1= Membership.new(100, mercedes_club, Savita)
-mem1= Membership.new(25, rise_by_we, Komal)
-mem1= Membership.new(999, soul_cyle, Savita)
+mem2= Membership.new(100, mercedes_club, Savita)
+mem3= Membership.new(25, rise_by_we, Komal)
+mem4= Membership.new(999, soul_cyle, Savita)
 
 binding.pry
 
