@@ -7,6 +7,5 @@ class Membership
     @lifter = lifter
 
     @@all << self
-    
   end
 end
