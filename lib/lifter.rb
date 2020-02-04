@@ -7,6 +7,6 @@ class Lifter
   end
 
   def lifters
-    
+
   end
 end
