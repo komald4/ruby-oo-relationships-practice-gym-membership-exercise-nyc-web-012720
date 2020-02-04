@@ -10,7 +10,7 @@ soul_cyle = Gym.new("Soul Cycle")
 
 # Komal = lifter.new("Komal", 1000)
 # Savita = lifter.new("Savita", 500)
-# 
+#
 # mem1= membership.new(99, pilates, Komal)
 # mem1= membership.new(100, mercedes_club, Savita)
 # mem1= membership.new(25, rise_by_we, Komal)
