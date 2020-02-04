@@ -3,5 +3,7 @@ class Membership
 
   def initialize(cost, gym, lifter)
     @cost = cost
+    @gym = gym
+    @lifter = lifter
   end
 end
